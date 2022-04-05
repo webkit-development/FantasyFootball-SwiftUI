@@ -11,6 +11,19 @@
 		52C2B16B27FBE5E8003A9FA9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B16A27FBE5E8003A9FA9 /* ContentView.swift */; };
 		52C2B16D27FBE5EA003A9FA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C2B16C27FBE5EA003A9FA9 /* Assets.xcassets */; };
 		52C2B17027FBE5EA003A9FA9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C2B16F27FBE5EA003A9FA9 /* Preview Assets.xcassets */; };
+		52C2B17C27FBE63A003A9FA9 /* League.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B17B27FBE63A003A9FA9 /* League.swift */; };
+		52C2B17E27FBE646003A9FA9 /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B17D27FBE646003A9FA9 /* News.swift */; };
+		52C2B18027FBE667003A9FA9 /* Options.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B17F27FBE667003A9FA9 /* Options.swift */; };
+		52C2B18327FBE68A003A9FA9 /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B18227FBE68A003A9FA9 /* Dashboard.swift */; };
+		52C2B18827FBE6B5003A9FA9 /* AlumniSansInlineOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52C2B18427FBE6B5003A9FA9 /* AlumniSansInlineOne-Regular.ttf */; };
+		52C2B18927FBE6B5003A9FA9 /* ArchivoBlack-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52C2B18527FBE6B5003A9FA9 /* ArchivoBlack-Regular.ttf */; };
+		52C2B18A27FBE6B5003A9FA9 /* Oswald.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52C2B18627FBE6B5003A9FA9 /* Oswald.ttf */; };
+		52C2B18B27FBE6B5003A9FA9 /* Alumni.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52C2B18727FBE6B5003A9FA9 /* Alumni.ttf */; };
+		52C2B18D27FBE6CC003A9FA9 /* Color-Themes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B18C27FBE6CC003A9FA9 /* Color-Themes.swift */; };
+		52C2B19027FBFBCD003A9FA9 /* NFLLeadersSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B18F27FBFBCD003A9FA9 /* NFLLeadersSection.swift */; };
+		52C2B19327FC1D29003A9FA9 /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = 52C2B19227FC1D29003A9FA9 /* SwiftUICharts */; };
+		52C2B19627FC1D42003A9FA9 /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = 52C2B19527FC1D42003A9FA9 /* SwiftSoup */; };
+		52C2B19827FC1E44003A9FA9 /* GamePointHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2B19727FC1E44003A9FA9 /* GamePointHistory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,18 @@
 		52C2B16A27FBE5E8003A9FA9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52C2B16C27FBE5EA003A9FA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52C2B16F27FBE5EA003A9FA9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		52C2B17B27FBE63A003A9FA9 /* League.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = League.swift; sourceTree = "<group>"; };
+		52C2B17D27FBE646003A9FA9 /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
+		52C2B17F27FBE667003A9FA9 /* Options.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Options.swift; sourceTree = "<group>"; };
+		52C2B18227FBE68A003A9FA9 /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
+		52C2B18427FBE6B5003A9FA9 /* AlumniSansInlineOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AlumniSansInlineOne-Regular.ttf"; sourceTree = "<group>"; };
+		52C2B18527FBE6B5003A9FA9 /* ArchivoBlack-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ArchivoBlack-Regular.ttf"; sourceTree = "<group>"; };
+		52C2B18627FBE6B5003A9FA9 /* Oswald.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Oswald.ttf; sourceTree = "<group>"; };
+		52C2B18727FBE6B5003A9FA9 /* Alumni.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Alumni.ttf; sourceTree = "<group>"; };
+		52C2B18C27FBE6CC003A9FA9 /* Color-Themes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color-Themes.swift"; sourceTree = "<group>"; };
+		52C2B18E27FBED9C003A9FA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		52C2B18F27FBFBCD003A9FA9 /* NFLLeadersSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFLLeadersSection.swift; sourceTree = "<group>"; };
+		52C2B19727FC1E44003A9FA9 /* GamePointHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamePointHistory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +51,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52C2B19327FC1D29003A9FA9 /* SwiftUICharts in Frameworks */,
+				52C2B19627FC1D42003A9FA9 /* SwiftSoup in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,8 +78,14 @@
 		52C2B16727FBE5E8003A9FA9 /* NFLLeagueFantasy */ = {
 			isa = PBXGroup;
 			children = (
+				52C2B17A27FBE624003A9FA9 /* Fonts */,
+				52C2B17927FBE617003A9FA9 /* Utilities */,
+				52C2B17827FBE608003A9FA9 /* View */,
+				52C2B17727FBE601003A9FA9 /* Model */,
+				52C2B17627FBE5F7003A9FA9 /* Data */,
 				52C2B16827FBE5E8003A9FA9 /* NFLLeagueFantasyApp.swift */,
 				52C2B16A27FBE5E8003A9FA9 /* ContentView.swift */,
+				52C2B18E27FBED9C003A9FA9 /* Info.plist */,
 				52C2B16C27FBE5EA003A9FA9 /* Assets.xcassets */,
 				52C2B16E27FBE5EA003A9FA9 /* Preview Content */,
 			);
@@ -65,6 +98,52 @@
 				52C2B16F27FBE5EA003A9FA9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		52C2B17627FBE5F7003A9FA9 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		52C2B17727FBE601003A9FA9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		52C2B17827FBE608003A9FA9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				52C2B17B27FBE63A003A9FA9 /* League.swift */,
+				52C2B17D27FBE646003A9FA9 /* News.swift */,
+				52C2B17F27FBE667003A9FA9 /* Options.swift */,
+				52C2B18227FBE68A003A9FA9 /* Dashboard.swift */,
+				52C2B18F27FBFBCD003A9FA9 /* NFLLeadersSection.swift */,
+				52C2B19727FC1E44003A9FA9 /* GamePointHistory.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		52C2B17927FBE617003A9FA9 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				52C2B18C27FBE6CC003A9FA9 /* Color-Themes.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		52C2B17A27FBE624003A9FA9 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				52C2B18727FBE6B5003A9FA9 /* Alumni.ttf */,
+				52C2B18427FBE6B5003A9FA9 /* AlumniSansInlineOne-Regular.ttf */,
+				52C2B18527FBE6B5003A9FA9 /* ArchivoBlack-Regular.ttf */,
+				52C2B18627FBE6B5003A9FA9 /* Oswald.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +162,10 @@
 			dependencies = (
 			);
 			name = NFLLeagueFantasy;
+			packageProductDependencies = (
+				52C2B19227FC1D29003A9FA9 /* SwiftUICharts */,
+				52C2B19527FC1D42003A9FA9 /* SwiftSoup */,
+			);
 			productName = NFLLeagueFantasy;
 			productReference = 52C2B16527FBE5E8003A9FA9 /* NFLLeagueFantasy.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +194,10 @@
 				Base,
 			);
 			mainGroup = 52C2B15C27FBE5E8003A9FA9;
+			packageReferences = (
+				52C2B19127FC1D29003A9FA9 /* XCRemoteSwiftPackageReference "ChartView" */,
+				52C2B19427FC1D42003A9FA9 /* XCRemoteSwiftPackageReference "SwiftSoup" */,
+			);
 			productRefGroup = 52C2B16627FBE5E8003A9FA9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +212,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52C2B18927FBE6B5003A9FA9 /* ArchivoBlack-Regular.ttf in Resources */,
 				52C2B17027FBE5EA003A9FA9 /* Preview Assets.xcassets in Resources */,
+				52C2B18B27FBE6B5003A9FA9 /* Alumni.ttf in Resources */,
 				52C2B16D27FBE5EA003A9FA9 /* Assets.xcassets in Resources */,
+				52C2B18827FBE6B5003A9FA9 /* AlumniSansInlineOne-Regular.ttf in Resources */,
+				52C2B18A27FBE6B5003A9FA9 /* Oswald.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +229,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				52C2B16B27FBE5E8003A9FA9 /* ContentView.swift in Sources */,
+				52C2B17C27FBE63A003A9FA9 /* League.swift in Sources */,
+				52C2B19827FC1E44003A9FA9 /* GamePointHistory.swift in Sources */,
+				52C2B18D27FBE6CC003A9FA9 /* Color-Themes.swift in Sources */,
+				52C2B17E27FBE646003A9FA9 /* News.swift in Sources */,
+				52C2B18027FBE667003A9FA9 /* Options.swift in Sources */,
+				52C2B18327FBE68A003A9FA9 /* Dashboard.swift in Sources */,
 				52C2B16927FBE5E8003A9FA9 /* NFLLeagueFantasyApp.swift in Sources */,
+				52C2B19027FBFBCD003A9FA9 /* NFLLeadersSection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +368,7 @@
 				DEVELOPMENT_TEAM = F94T4F28AP;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NFLLeagueFantasy/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +398,7 @@
 				DEVELOPMENT_TEAM = F94T4F28AP;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NFLLeagueFantasy/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -339,6 +439,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		52C2B19127FC1D29003A9FA9 /* XCRemoteSwiftPackageReference "ChartView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AppPear/ChartView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		52C2B19427FC1D42003A9FA9 /* XCRemoteSwiftPackageReference "SwiftSoup" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/scinfu/SwiftSoup.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		52C2B19227FC1D29003A9FA9 /* SwiftUICharts */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 52C2B19127FC1D29003A9FA9 /* XCRemoteSwiftPackageReference "ChartView" */;
+			productName = SwiftUICharts;
+		};
+		52C2B19527FC1D42003A9FA9 /* SwiftSoup */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 52C2B19427FC1D42003A9FA9 /* XCRemoteSwiftPackageReference "SwiftSoup" */;
+			productName = SwiftSoup;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 52C2B15D27FBE5E8003A9FA9 /* Project object */;
 }
